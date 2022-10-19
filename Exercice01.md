@@ -36,7 +36,7 @@ Dans cet exercice, vous allez vous installer un environnement de travail pour la
 
 Dans cette partie, vous allez cloner un dépôt Git, créer une branche et déposer cette branche sur le dépôt distant. Au prochain cours nous allons voir la théorie sûre comment travailler avec les branches.
 
-- Clonez le dépôt git [git@github.com:jpduchesneauCegep/A_22_ITV_4393_Exercice1.git](git@github.com:jpduchesneauCegep/A_22_ITV_4393_Exercice1.git) à l'aide de VSCode.
+- Clonez le dépôt suivant : [git@github.com:jpduchesneauCegep/A_22_ITV_4393_Exercice1.git](git@github.com:jpduchesneauCegep/A_22_ITV_4393_Exercice1.git) à l'aide de VSCode.
 - **Attentions, faites des commits à toutes les étapes avec des messages significatifs.**
 - Ajouter une branche MaBranche_[VosInitiales]
 pour ce faire cliquer sur la branche dans la bare en bas.
