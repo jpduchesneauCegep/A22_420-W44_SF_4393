@@ -42,6 +42,7 @@ Dans cette partie, vous allez cloner un dépôt Git, créer une branche et dépo
 pour ce faire cliquer sur la branche dans la bare en bas.
 ![Branche](img/brancheVScode.jpg)
 - Cliquez sur créer branche dans la barre du haut.
+    
 - Placez-vous sur cette branche, pour ce faire cliquer sur la branche dans la bare en bas.
 ![Branche](img/brancheVScode.jpg)
 - Prenez le fichier pageEtudiant.html et copier avec comme nouveau nom MaPage_[VosInitiales] 
