@@ -39,31 +39,18 @@ Dans cette partie, vous allez cloner un dépôt Git, créer une branche et dépo
 - Clonez le dépôt git [git@github.com:jpduchesneauCegep/A_22_ITV_4393_Exercice1.git](git@github.com:jpduchesneauCegep/A_22_ITV_4393_Exercice1.git) à l'aide de VSCode.
 - **Attentions, faites des commits à toutes les étapes avec des messages significatifs.**
 - Ajouter une branche MaBranche_[VosInitiales]
+pour ce faire cliquer sur la branche dans la bare en bas.
+![Branche](img/brancheVScode.jpg)
+- Cliquez sur créer branche dans la barre du haut.
 - Placez-vous sur cette branche, pour ce faire cliquer sur la branche dans la bare en bas.
 ![Branche](img/brancheVScode.jpg)
-- Dans le dossier etudiants, ajouter un fichier MaPage_[VosIntitiales].html avec en tête et body comme ceci : 
+- Prenez le fichier pageEtudiant.html et copier avec comme nouveau nom MaPage_[VosInitiales] 
+            et placer ce fichier dans le dossier étudiants.
 
-```html
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ITV exercice 1 : {votre nom}</title>
-</head>
-<body>
-    <h1>Infrastructure technologique et virtualisation</h1>
-    <h2>Exercice 1, partie 2 : Premières commandes Git</h2></h2>
-
-    <h2>Par {Votre nom}</h2>
-<h3>Date</h3>
-</body>
-</html>
-```
-
-- Ajoutez votre nom dans la page index.html du site dans l'espace prévu à cette fin et mettez un lien vers votre page.
+- Créer un lien hypertext entre votre page et votre nom dans la liste de la page index.html.
+- Faite un commit.
 - Pousser votre branche sur le dépôt distant.
+- Vous pouvez le faire avec Visual Studio Code.
 - Allez sur le dépôt sur Git Hub et vérifiez si votre travail est présent dans les branches suivantes : 
 
 |Nom de la Branche | Est-il présent |
