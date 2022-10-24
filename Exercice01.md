@@ -52,7 +52,7 @@ pour ce faire cliquer sur la branche dans la bare en bas.
 - Faite un commit.
 - Pousser votre branche sur le dépôt distant.
 - Vous pouvez le faire avec Visual Studio Code.
-- Allez sur le dépôt sur Git Hub et vérifiez si votre travail est présent dans les branches suivantes : 
+- Allez sur le dépôt sur Git Lab et vérifiez si votre travail est présent dans les branches suivantes : 
 
 |Nom de la Branche | Est-il présent |
 --- | --- 
