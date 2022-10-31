@@ -92,6 +92,7 @@ kubectl delete deployment nginx
 - Validez que le pod est bien créé en visualisant le pod et le déploiement
 - Créez de nouveau réplica de votre pod en tapant la commande suivante : ```kubectl scale deployment --replicas 2 mon-nginx```
 - Listez les pods et validez que vous en avez bien 2 maintenant
+- Gardez cette sortie pour votre remise sur LÉA.
 - Exposez vos pods sur votre hôte local avec la commande suivante : ```kubectl expose deployments mon-nginx --port=80 --type=LoadBalancer```
 - Testez votre site
 - Supprimez les ressources créées
@@ -112,8 +113,8 @@ kubectl delete deployment mon-nginx
 </details>
 
 ## Pour vérification
-Allez dans Dépôt -> Graphique et fait une capture du graphique de la branche develop et mettre celle-ci comme preuve de réalisation de votre exercice.
 
+Déposez votre capture demandée au point 3.2 (Listez les pods et validez que vous en avez bien 2 maintenant).
 ## Références :
 
 - [Command line tool (kubectl)](https://kubernetes.io/docs/reference/kubectl/)
